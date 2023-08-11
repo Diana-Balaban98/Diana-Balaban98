@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="350"/>
+</div>
+
+
 ### Hi there 👋
 
 <!--
